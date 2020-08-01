@@ -182,7 +182,7 @@ font-size: 2.8rem;
   justify-content: center;
 }
 .about-text{
-  min-width:60vw;
+  width:60vw;
   height:80vh;
   background:#6897d19c;
   display: flex;
